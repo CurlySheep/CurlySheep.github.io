@@ -15,4 +15,4 @@ Obviously they shared the same standard knowledge. However, comparing to practic
 
 # About myself
 
-I'm neither a talent person nor a really hard-working student, while I think a statistician requires both characteristics. I like study widely but not deeply, and I'm willing to acquire knowledge from different regions. That's why I would more like to be a data scientist. 
+I'm neither a talent person nor a really hard-working student, while I think a statistician requires both characteristics. I like study widely but not deeply, and I'm willing to acquire knowledge from different regions. That's why I would more like to be a data scientist. However, I won't refuse being creative if I have the chance, and I may also have a try on being a statistician.
