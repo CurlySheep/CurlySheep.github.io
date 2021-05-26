@@ -6,9 +6,9 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### A Portrait
 
-A place to include any other types of information that you'd like to include about yourself.
+My girlfriend draw a portrait for me and I like it so much. I want to share it!
 
 ### Contact me
 
