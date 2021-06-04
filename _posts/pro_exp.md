@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: Programming experience
-permalink: /Experience/
 ---
 
 # R vs SAS
